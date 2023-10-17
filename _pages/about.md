@@ -9,8 +9,11 @@ redirect_from:
 ---
 
 陈骋，重庆大学土木工程学院土木工程专业（建筑工程方向）学士（大四在读）。
+
 Cheng Chen, Bachelor of Civil Engineering (Architectural Engineering), School of Civil Engineering, Chongqing University.
+
 研究方向：再生混凝土组合结构，新型建筑材料与结构性能表征与多尺度建模。
+
 Research interests: composite structures using recycled concrete, advanced building materials and structural properties characterization and multi-scale modeling.
 
 A data-driven personal website
